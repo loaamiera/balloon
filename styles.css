@@ -1,0 +1,21 @@
+html{
+  background-color: 'blue';
+  text: 'black' ;
+}
+h1{
+  text-align: center ;
+}
+
+nav{
+  display: inline- flex;
+  flex-direction: column;
+  margin: auto;
+  ul{
+  a: link{
+    text-decoration: none;
+  }
+  list-style-type: none;}
+  li{
+    padding: '5em';
+  }
+}
