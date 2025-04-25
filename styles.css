@@ -11,6 +11,7 @@ main, body{
   margin: auto;
 }
 nav{
+  margin: auto ;
   text-align: center ;
   display: inline- flex;
   flex-direction: column;
