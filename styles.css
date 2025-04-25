@@ -18,19 +18,19 @@ nav{
   flex-direction: column;
   vertical-align: center ;
   float: center ;
-  ul{
-      list-style-type: none;
-  }
-  a{
-    text-decoration: none;
-  }
+}
 li a:link {    
         color: '(0, 0, 0)';}
 li a:visited {        
         color: '(0, 0, 0)';}
 li a:hover{
         color: '(0, 0, 0)' ; }
-  li{
+li{
     padding: '50em';
   }
-}
+a{
+    text-decoration: none;
+  }
+ul{
+      list-style-type: none;
+  }
