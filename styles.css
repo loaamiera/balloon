@@ -17,6 +17,7 @@ nav{
   display: inline- flex;
   flex-direction: column;
   vertical-align: center ;
+  float: center ;
   ul{
   a: link{
     text-decoration: none;
