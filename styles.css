@@ -19,8 +19,9 @@ nav{
   vertical-align: center ;
   float: center ;
   ul{
-  a: link{
+  li a: link{
     text-decoration: none;
+    color: (0, 0, 0);
   }
   list-style-type: none;}
   li{
