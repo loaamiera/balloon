@@ -19,17 +19,20 @@ nav{
   vertical-align: center ;
   float: center ;
   ul{
-      li a:link {    
-        text-decoration: none;
-        color: '(0, 0, 0)';}
-      li a:visited {        
-        text-decoration: none;
-        color: '(0, 0, 0)';}
-      li a:hover{
-        color: white ; }
-
+      list-style-type: none
+    
   }
-  list-style-type: none;}
+  a{
+    text-decoration: none;
+  }
+li a:link {    
+        text-decoration: none;
+        color: '(0, 0, 0)';}
+li a:visited {        
+        text-decoration: none;
+        color: '(0, 0, 0)';}
+li a:hover{
+        color: '(0, 0, 0)' ; }
   li{
     padding: '25em';
   }
