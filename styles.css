@@ -19,7 +19,7 @@ nav{
   vertical-align: center ;
   float: center ;
   ul{
-      list-style-type: none
+
     
   }
   a{
@@ -35,5 +35,6 @@ li a:hover{
         color: '(0, 0, 0)' ; }
   li{
     padding: '25em';
+    list-style-type: none
   }
 }
